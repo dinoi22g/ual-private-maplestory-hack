@@ -1,0 +1,78 @@
+C:\Users\Administrator.888TIGER\AppData\Local\Temporary Projects\[N] Ual-ms\bin\Debug\[N] Ual-ms.exe.config
+C:\Users\Administrator.888TIGER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\_N__Ual_ms.Resources.resources
+C:\Users\Administrator.888TIGER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\[N] Ual-ms.vbproj.GenerateResource.Cache
+C:\Users\Administrator.888TIGER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\_N__Ual_ms.FormMain.resources
+C:\Users\Administrator.888TIGER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\_N__Ual_ms.FormProcess.resources
+C:\Users\Administrator.888TIGER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\_N__Ual_ms.FormRanID.resources
+C:\Users\Administrator.888TIGER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\_N__Ual_ms.ProgressBarEx.resources
+C:\Users\Administrator.888TIGER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\_N__Ual_ms.FormEditKey.resources
+C:\Users\USER\Desktop\[N] Ual-ms\[N] Ual-ms\bin\Debug\[N] Ual-ms.exe.config
+C:\Users\USER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\[N] Ual-ms.exe
+C:\Users\USER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\[N] Ual-ms.xml
+C:\Users\USER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\[N] Ual-ms.pdb
+C:\Users\USER\Desktop\[N] Ual-ms\[N] Ual-ms\bin\Debug\[N] Ual-ms.exe
+C:\Users\USER\Desktop\[N] Ual-ms\[N] Ual-ms\bin\Debug\[N] Ual-ms.pdb
+C:\Users\USER\Desktop\[N] Ual-ms\[N] Ual-ms\bin\Debug\[N] Ual-ms.xml
+C:\Users\USER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\[N] Ual-ms.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\_N__Ual_ms.FormEditKey.resources
+C:\Users\USER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\_N__Ual_ms.FormMain.resources
+C:\Users\USER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\_N__Ual_ms.FormProcess.resources
+C:\Users\USER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\_N__Ual_ms.FormRanID.resources
+C:\Users\USER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\_N__Ual_ms.Resources.resources
+C:\Users\USER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\_N__Ual_ms.ProgressBarEx.resources
+C:\Users\USER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\[N] Ual-ms.vbproj.GenerateResource.Cache
+C:\Users\Administrator.888TIGER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\[N] Ual-ms.vbprojResolveAssemblyReference.cache
+C:\Users\BTR\Desktop\[N] Ual-ms\[N] Ual-ms\bin\Debug\[N] Ual-ms.exe.config
+C:\Users\BTR\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\[N] Ual-ms.exe
+C:\Users\BTR\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\[N] Ual-ms.xml
+C:\Users\BTR\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\[N] Ual-ms.pdb
+C:\Users\BTR\Desktop\[N] Ual-ms\[N] Ual-ms\bin\Debug\[N] Ual-ms.exe
+C:\Users\BTR\Desktop\[N] Ual-ms\[N] Ual-ms\bin\Debug\[N] Ual-ms.pdb
+C:\Users\BTR\Desktop\[N] Ual-ms\[N] Ual-ms\bin\Debug\[N] Ual-ms.xml
+C:\Users\BTR\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\[N] Ual-ms.vbprojResolveAssemblyReference.cache
+C:\Users\BTR\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\_N__Ual_ms.FormEditKey.resources
+C:\Users\BTR\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\_N__Ual_ms.FormMain.resources
+C:\Users\BTR\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\_N__Ual_ms.FormProcess.resources
+C:\Users\BTR\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\_N__Ual_ms.FormRanID.resources
+C:\Users\BTR\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\_N__Ual_ms.Resources.resources
+C:\Users\BTR\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\_N__Ual_ms.ProgressBarEx.resources
+C:\Users\BTR\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\[N] Ual-ms.vbproj.GenerateResource.Cache
+C:\Users\Administrator.888TIGER\Desktop\[N] Ual-ms\[N] Ual-ms\bin\Debug\Ual-ms.exe.config
+C:\Users\Administrator.888TIGER\Desktop\[N] Ual-ms\[N] Ual-ms\bin\Debug\Ual-ms.exe
+C:\Users\Administrator.888TIGER\Desktop\[N] Ual-ms\[N] Ual-ms\bin\Debug\Ual-ms.pdb
+C:\Users\Administrator.888TIGER\Desktop\[N] Ual-ms\[N] Ual-ms\bin\Debug\Ual-ms.xml
+C:\Users\Administrator.888TIGER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.exe
+C:\Users\Administrator.888TIGER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.xml
+C:\Users\Administrator.888TIGER\Desktop\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.pdb
+C:\Users\Administrator.888TIGER\Desktop\楓之谷相關檔案\[N] Ual-ms\[N] Ual-ms\bin\Debug\Ual-ms.exe.config
+C:\Users\Administrator.888TIGER\Desktop\楓之谷相關檔案\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.exe
+C:\Users\Administrator.888TIGER\Desktop\楓之谷相關檔案\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.xml
+C:\Users\Administrator.888TIGER\Desktop\楓之谷相關檔案\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.pdb
+C:\Users\Administrator.888TIGER\Desktop\desktop\楓之谷相關檔案\[N] Ual-ms\[N] Ual-ms\bin\Debug\Ual-ms.exe.config
+C:\Users\Administrator.888TIGER\Desktop\desktop\楓之谷相關檔案\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.exe
+C:\Users\Administrator.888TIGER\Desktop\desktop\楓之谷相關檔案\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.xml
+C:\Users\Administrator.888TIGER\Desktop\desktop\楓之谷相關檔案\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.pdb
+C:\Users\Administrator.888TIGER\Desktop\0109\desktop\楓之谷相關檔案\[N] Ual-ms\[N] Ual-ms\bin\Debug\Ual-ms.exe.config
+C:\Users\Administrator.888TIGER\Desktop\0109\desktop\楓之谷相關檔案\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.exe
+C:\Users\Administrator.888TIGER\Desktop\0109\desktop\楓之谷相關檔案\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.xml
+C:\Users\Administrator.888TIGER\Desktop\0109\desktop\楓之谷相關檔案\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.pdb
+C:\Users\Administrator.888TIGER\Desktop\0127\[N] Ual-ms\[N] Ual-ms\bin\Debug\Ual-ms.exe.config
+C:\Users\Administrator.888TIGER\Desktop\0127\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.exe
+C:\Users\Administrator.888TIGER\Desktop\0127\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.xml
+C:\Users\Administrator.888TIGER\Desktop\0127\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.pdb
+D:\[4].遊戲作弊\楓之谷\楓之谷v117\[N] Ual-ms\[N] Ual-ms\bin\Debug\Ual-ms.exe.config
+D:\[4].遊戲作弊\楓之谷\楓之谷v117\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.exe
+D:\[4].遊戲作弊\楓之谷\楓之谷v117\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.xml
+D:\[4].遊戲作弊\楓之谷\楓之谷v117\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.pdb
+D:\[5]. 遊戲作弊\楓之谷\楓之谷v117\[N] Ual-ms\[N] Ual-ms\bin\Debug\Ual-ms.exe.config
+D:\[5]. 遊戲作弊\楓之谷\楓之谷v117\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.exe
+D:\[5]. 遊戲作弊\楓之谷\楓之谷v117\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.xml
+D:\[5]. 遊戲作弊\楓之谷\楓之谷v117\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.pdb
+G:\0922\[N] Ual-ms\[N] Ual-ms\bin\Debug\Ual-ms.exe.config
+G:\0922\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.exe
+G:\0922\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.xml
+G:\0922\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.pdb
+E:\未整理的資料\USB_1016\0922\[N] Ual-ms\[N] Ual-ms\bin\Debug\Ual-ms.exe.config
+E:\未整理的資料\USB_1016\0922\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.exe
+E:\未整理的資料\USB_1016\0922\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.xml
+E:\未整理的資料\USB_1016\0922\[N] Ual-ms\[N] Ual-ms\obj\Debug\Ual-ms.pdb
